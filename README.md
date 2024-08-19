@@ -1,4 +1,5 @@
-# LABORATORY-EXERCISE-1-Directory-Management-System
-c++
-print ("hello");
-s
+include <iostream>
+using namespace std;
+int main () {
+
+}
